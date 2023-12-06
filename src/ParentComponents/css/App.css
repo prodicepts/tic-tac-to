@@ -1,0 +1,13 @@
+.app {
+    /* border:2px solid red; */
+    width: 35%;
+    margin:auto;
+    position: absolute;
+    top:15%;
+    left: 30%;
+    height: 70vh;
+}
+
+.row {
+    display: flex;
+}
